@@ -6,10 +6,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        int num1;
-//        int num2;
-//        int result;
-
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the number 1");
         int num1 = s.nextInt();
